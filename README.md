@@ -38,4 +38,5 @@ Tenho 20 anos, moro em São Paulo e estudo Engenharia de Software na FIAP. Sou a
     />
   </a>
 
-#### Muito obrigado!
+#### Obrigado por visitar meu perfil! 
+#### Estou sempre aberto se quiser conversar sobre IA, projetos malucos, código ou simplesmente bater um papo.
