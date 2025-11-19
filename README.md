@@ -24,4 +24,36 @@ Tenho 20 anos, moro em São Paulo e estudo Engenharia de Software na FIAP. Sou a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtorresluiz&layout=donut&theme=radical" height="180em"/>
 </p>
 
+---
+<div align="center" style="margin-bottom: 20px;">
+
+  <a href="https://linkedin.com/in/gabriel-torres-luiz" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" 
+      style="border-radius: 50px;" 
+    />
+  </a>
+  <a 
+    href="mailto:gtorresluiz@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" style="border-radius: 50px;" 
+    />
+  </a>
+
+<div align="center">
+
+  <img height="70" style="border-radius: 50%; margin: 10px; display: inline-block;" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+  <img height="70" style="border-radius: 50%; margin: 10px; display: inline-block;" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+
+  <img height="70" style="border-radius: 50%; margin: 10px; display: inline-block;" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+
+  <img height="70" style="border-radius: 50%; margin: 10px; display: inline-block;" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+  <img height="70" style="border-radius: 50%; margin: 10px; background:white; padding:12px; display: inline-block;" 
+       src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
+
+</div>
 
