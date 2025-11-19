@@ -38,22 +38,4 @@ Tenho 20 anos, moro em São Paulo e estudo Engenharia de Software na FIAP. Sou a
     />
   </a>
 
-<div align="center">
-
-  <img height="70" style="border-radius: 50%; margin: 10px; display: inline-block;" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
-  <img height="70" style="border-radius: 50%; margin: 10px; display: inline-block;" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-
-  <img height="70" style="border-radius: 50%; margin: 10px; display: inline-block;" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-
-  <img height="70" style="border-radius: 50%; margin: 10px; display: inline-block;" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-  <img height="70" style="border-radius: 50%; margin: 10px; background:white; padding:12px; display: inline-block;" 
-       src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
-
-</div>
-
+#### Muito obrigado!
